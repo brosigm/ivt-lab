@@ -96,4 +96,7 @@ public class GT4500 implements SpaceShip {
     return firingSuccess;
   }
 
+  // ez itt ket konfliktussal teli sor lesz
+  // ez lenne a masodik
+
 }
