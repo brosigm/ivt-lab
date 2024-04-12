@@ -95,5 +95,7 @@ public class GT4500 implements SpaceShip {
 
     return firingSuccess;
   }
+  // although secondary was fired last time, but primary is empty
+  // thus try to fire secondary again
 
 }
